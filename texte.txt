@@ -1,1 +1,2 @@
 ajout d'une ligne de texte pour test commit
+Cette ligne est réalisée dans le but de tester le double utilisateur git.
